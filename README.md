@@ -1,7 +1,7 @@
 <p align = "center">
 <!-- <img src = "https://github.com/professorabhay/professorabhay/assets/76243309/1d9cffcf-24a4-4c99-b29b-74deb66ceecf" width = 100%/> -->
 <!-- <img src = "https://github.com/professorabhay/professorabhay/assets/76243309/fd555ba1-675a-44ee-bf0c-1e90267b288a" width = 100%/> -->
-<img src = "https://github.com/professorabhay/professorabhay/assets/76243309/26d711eb-d201-435b-90dc-4a020e2158ac" width = 100%/>
+<img src = "https://github.com/user-attachments/assets/56acbb5f-f4d5-46a2-b22a-9dfe035e6704" width = 100%/>
 </p>  
 
 <h1 align="left">Welcome To My Cloud ☁️</h1>
