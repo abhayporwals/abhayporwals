@@ -4,7 +4,9 @@
 
 <h1 align="left">Welcome to My Cloud</h1>
 
-<img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250" />
+<img align="right" src="https://github.com/user-attachments/assets/8bcd1963-9960-4edf-9e44-1a09ef4239f3" width="250" height="250" />
+
+<!--https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wzZmNiYmgzb2lyMXhhcDdoMHQ1dDViOHNoMmQ5cjRmdTJhYWc1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OT2lwSsUgpsT6/giphy.gif-->
 
 <h3 align="left">About Me</h3>
 
