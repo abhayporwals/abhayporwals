@@ -1,46 +1,39 @@
-<p align = "center">
-<!-- <img src = "https://github.com/professorabhay/professorabhay/assets/76243309/1d9cffcf-24a4-4c99-b29b-74deb66ceecf" width = 100%/> -->
-<!-- <img src = "https://github.com/professorabhay/professorabhay/assets/76243309/fd555ba1-675a-44ee-bf0c-1e90267b288a" width = 100%/> -->
-<img src = "https://github.com/user-attachments/assets/085de924-3440-46b1-83d9-a0d7ad7ef3d9" width = 100%/>
-</p> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/085de924-3440-46b1-83d9-a0d7ad7ef3d9" width="100%" />
+</p>
 
-<h1 align="left">Welcome To My Cloud ☁️</h1>
+<h1 align="left">Welcome to My Cloud</h1>
 
-<img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250">
+<img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250" />
 
-###
+<h3 align="left">About Me</h3>
 
-<h3 align="left">🤔 Who I am ? </h3>
-
-###
-
-<h4 align="left">Abhay here, a final year BCA student passionate about MERN stack web development and Google Summer of Code 2024 mentee at Chromium. Currently working on Cloud Native Tech and Web3 🚀</h4>
+<p align="left">
+  Hi, I'm <b>Abhay Gupta</b> — a backend-focused developer passionate about distributed systems, real-time architecture, and open source. I'm currently interning at <b>Keizerworks</b> (a startup studio) where I build multi-tenant LMS & ERP systems from the ground up. <br><br>
+  Previously, I contributed to the <b>Chromium team</b> as a <b>Google Summer of Code 2024</b> mentee and have made contributions to open source projects in the CNCF ecosystem, including <b>Kubernetes</b>, <b>Jenkins</b>, <b>WasmCloud</b>, and more.<br><br>
+  I also write technical blogs at <a href="https://abhayporwals.hashnode.dev" target="_blank"><b>abhayporwals.hashnode.dev</b></a> 
+</p>
 
 ---
 
-<h3 align="left">💻 Tech that I use daily : </h3>
-
-
+<h3 align="left">Tech Stack I Work With</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="25" alt="typescript logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=express" height="25" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="25" alt="postgresql logo" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="25" alt="redis logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo"  />
-<!--   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="25" alt="graphql logo"  /> -->
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="25" alt="kubernetes logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="25" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo" />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo" />
 </div>
-
----
-###
